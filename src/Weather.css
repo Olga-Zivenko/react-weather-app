@@ -36,6 +36,7 @@
 .Weather img {
     height: 64px;
     width: 64px;
+    vertical-align: top;
    
     margin-right: 10px;
 }
