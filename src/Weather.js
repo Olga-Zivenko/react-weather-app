@@ -59,6 +59,7 @@ if (weatherData.ready) {
                </div>
             </form>
           <WeatherInfo data={weatherData}/>
+          <hr />
           <WeatherForecast  coordinates={weatherData.coordinates}/>
            
         </div>
