@@ -15,7 +15,7 @@ function App () {
           target="_blank"
           rel="noopener noreferrer"
         >
-            open-sourced on GitHub</a>{""}
+            open-sourced on GitHub {""}</a>{""}
             and {""}
             <a
           className="App-link"
