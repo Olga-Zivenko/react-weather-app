@@ -15,8 +15,15 @@ function App () {
           target="_blank"
           rel="noopener noreferrer"
         >
-            open-soursed on GitHub</a>
-     
+            open-sourced on GitHub</a>{""}
+            and {""}
+            <a
+          className="App-link"
+          href="https://voluble-unicorn-31ad17.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+            hosted on Netlify</a>
     </footer>
     </div>
     </div>
